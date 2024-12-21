@@ -98,9 +98,3 @@ Align genome sequence reads to the human X chromosome to analyze genes associate
 - **Most Probable Configuration**: Configuration 3, with likelihood \(1.95 \times 10^{-17}\).
 
 ---
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo-url.git
